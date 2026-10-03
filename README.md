@@ -1,10 +1,10 @@
 # Stepper motor
-As we look into the tutorial stepper motor video, I just know that the stepper motor needed a motor driver to prevent the motor coils from overheating and burning out when using a high-voltage power. However, the motor driver is not automatically limit our wanted power. So, we needed to limit mannually by using multi-meter to measure DC 
+As we look into the tutorial stepper motor video, I just know that the stepper motor needed a motor driver to prevent the motor coils from overheating and burning out when using a high-voltage power. However, the motor driver is not automatically limit our wanted power. So, we manually limit the output adjusting the motor drive's potentiometer and monitoring the DC(Direct current) voltage with a multimeter until it reached the target value.
 
 https://github.com/user-attachments/assets/a8a8ddc4-52a2-4b73-b4a1-382a5c9d115d
 
-
-
+Challenge:
+When we are trying to set the limit multiple time but the DC voltage is at 0.00v. That make me confussed as I plug my arduino uno, but then I thought about stepper motor and motor driver diagram, which include an independant power supply which make me think that it might be why our measurement isn't working. When we plugin the power supply, we can able to see and set the limit voltage.
 
 <img width="3024" height="4032" alt="IMG_1870" src="https://github.com/user-attachments/assets/e1740c2c-b510-4114-903f-819e1e5d0849" />
 
