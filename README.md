@@ -1,5 +1,6 @@
 # Stepper motor
 As we look into the tutorial stepper motor video, I just know that the stepper motor needed a motor driver to prevent the motor coils from overheating and burning out when using a high-voltage power supply.
+
 https://github.com/user-attachments/assets/a8a8ddc4-52a2-4b73-b4a1-382a5c9d115d
 
 
