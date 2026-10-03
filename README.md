@@ -1,4 +1,5 @@
 # Stepper motor
+# Day 1
 As we look into the tutorial stepper motor video, I just know that the stepper motor needed a motor driver to prevent the motor coils from overheating and burning out when using a high-voltage power. However, the motor driver is not automatically limit our wanted power. So, we manually limit the output adjusting the motor drive's potentiometer and monitoring the DC(Direct current) voltage with a multimeter until it reached the target value.
 
 https://github.com/user-attachments/assets/a8a8ddc4-52a2-4b73-b4a1-382a5c9d115d
@@ -10,6 +11,7 @@ When we are trying to set the limit multiple time but the DC voltage is at 0.00v
 
 This was the point where we finished the wiring of the driver. It took a long time since it was a new thing for all of us. We used the youtube video to help us better understand the wiring and how it functions, and in this picture we finished the wiring with the help of the youtube video and it was a major checkpoint for us. 
 
+# Day 2
 
 
 ## AI Usage
